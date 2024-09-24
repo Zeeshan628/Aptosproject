@@ -1,5 +1,10 @@
 # Airdrop Scheduler Smart Contract
 
+contract address: 0xf7748e9e6af4ea855e8ac9a693937697e1d535a550d61a44b1d05d9f016f5f52
+screenshot: 
+![image](https://github.com/user-attachments/assets/6e36b3db-922d-46d7-8fd4-be2efb5d2910)
+
+
 ## Vision
 
 The **Airdrop Scheduler** smart contract is designed to facilitate token airdrops on the Aptos blockchain. It allows users to claim a predetermined amount of tokens from an active airdrop schedule, helping to distribute tokens to a wide audience efficiently.
